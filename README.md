@@ -29,19 +29,19 @@ The program will run forever and displays the five choices and the user input.
 
 ##### Task1 
 
--Create Employee class : 
--the class holds data: Name, Age, and salary
--the function that prints the data 
+- Create Employee class : 
+- the class holds data: Name, Age, and salary
+- the function that prints the data 
 
 ##### Task2 
 
--Create EmployeesManger Class :
--the Manager class will have a list of employees and make the functionality of this list, the functions in the menu options.
+- Create EmployeesManger Class :
+- the Manager class will have a list of employees and make the functionality of this list, the functions in the menu options.
 
 ##### Task3 
 
--Create FrontendManager Class :
--print the menu, get a choice, and call employeesManager to functionality for us. 
+- Create FrontendManager Class :
+- print the menu, get a choice, and call employeesManager to functionality for us. 
 
 
 
