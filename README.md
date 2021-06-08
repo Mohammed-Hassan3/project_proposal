@@ -17,11 +17,11 @@ My motivation to do such a project comes from my desire to build a program that 
 
 Create a program that provides the following operations:
  Enter your choice:
-1) Add new employee
-2) Print all employees
-3) filter out by age
-4) Update Salary by name
-5) End the program
+- Add new employee
+- Print all employees
+- filter out by age
+- Update Salary by name
+- End the program
 The program will run forever and displays the five choices and the user input.
 
 ### Tasks 
@@ -29,18 +29,18 @@ The program will run forever and displays the five choices and the user input.
 
 ##### Task1 
 
-Create Employee class : 
+-Create Employee class : 
 the class holds data: Name, Age, and salary
 the function that prints the data 
 
 ##### Task2 
 
-Create EmployeesManger Class :
+-Create EmployeesManger Class :
 the Manager class will have a list of employees and make the functionality of this list, the functions in the menu options.
 
 ##### Task3 
 
-Create FrontendManager Class :
+-Create FrontendManager Class :
 print the menu, get a choice, and call employeesManager to functionality for us 
 
 
